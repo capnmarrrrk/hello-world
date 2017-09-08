@@ -1,3 +1,4 @@
 # hello-world
-My first repo
-My name is Marrrrk, I have a purpole beard
+
+My name is Marrrrk, I have a purple beard
+Start wearing purple wearing purple
